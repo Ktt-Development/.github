@@ -8,24 +8,23 @@ assignees: ''
 ---
 
 ### Prerequisites
-*If **all** checks are not passed then the issue will be closed*
-- [ ] I have checked that no other similar issue already exists
+*If **all** checks are not passed then the issue will be closed.*
+- [ ] I have checked that no other similar issue already exists.
+- [ ] I have checked that this issue is actually a bug and not a feature.
+
+**Operating System:** *Operating system name and version.*
 
 
-**Operating System:** *Operating system name and version*
-
-
-**Release Version:** *Release version or branch where the issue occurred*
+**Release Version:** *Release version or branch commit where the issue occurred.*
 
 
 ### Issue
-*Explain your issue. Add any screenshots here*
+*Explain your issue. Add any screenshots here.*
 
 
 ### Expected Behavior
-*Explain what was supposed to happen*
+*Explain what was supposed to happen.*
 
 
 ### Steps To Reproduce
-*Explain how and/or when the error occurred*
-
+*Explain how and/or when the error occurred.*

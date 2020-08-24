@@ -8,13 +8,14 @@ assignees: ''
 ---
 
 ### Prerequisites
-*If **all** checks are not passed then the request will be closed*
-- [ ] I have checked that no other similar feature request already exists
-- [ ] The feature request makes sense for the project
+*If **all** checks are not passed then the request will be closed.*
+- [ ] I have checked that no other similar feature request already exists.
+- [ ] I have checked that this feature does not already exist.
+- [ ] The feature request makes sense for the project.
 
 ### Proposal
-*Describe the feature that should be added*
+*Describe the feature that should be added.*
 
 
 ### Reasoning
-*Explain why this feature should be added*
+*Explain why this feature should be added.*
