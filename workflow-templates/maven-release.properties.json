@@ -1,0 +1,6 @@
+{
+    "name": "Maven Release",
+    "description": "Compile binaries with Maven as an artifact and deploy jars to latest release",
+    "iconName": "icon",
+    "categories": ["Java"]
+}
