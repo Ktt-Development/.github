@@ -1,0 +1,6 @@
+{
+    "name": "Java CI",
+    "description": "Run Java CI for Maven projects with OpenJDK 11",
+    "iconName": "icon",
+    "categories": ["Java"]
+}
