@@ -22,7 +22,7 @@ jobs:
       - name: 📦 Upload artifact
         uses: actions/upload-artifact@v2
         with:
-          name: rexedia
+          name: artifact
           path: |
             target/*.jar
             target/*.md5
