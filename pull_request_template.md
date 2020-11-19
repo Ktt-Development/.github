@@ -6,9 +6,9 @@
 - [ ] Build compiles.
 - [ ] Build runs without exceptions.
 - [ ] I have added/modified documentation (if applicable).
-- [ ] I have added/modified test cases.
+- [ ] I have added/modified test cases (if applicable).
 
 ### Changes Made
-*List changes made and/or relevant issues. Please keep changed in reverse chronological order (newest at top).*
+*List changes made and/or relevant issues.*
 
 -
